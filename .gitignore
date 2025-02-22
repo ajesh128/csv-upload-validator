@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+.idea/workspace.xml
+*.pyc
+*.log
+*.pid
+*.dump
+media/
+.env
+static
+app.log
+.coverage
+coverage.xml
